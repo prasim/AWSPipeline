@@ -20,10 +20,6 @@ phases:
 
     build:
         commands:
-            # tests
-            - echo testing...
-            - yarn test
-            # build
             - echo building...
             - yarn build
 artifacts:
